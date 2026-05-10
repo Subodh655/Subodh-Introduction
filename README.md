@@ -4,9 +4,9 @@ This is my first git repository.
 <br>
 Cyber Security Enthusiast.
 <Br>
-MCA Student.
+passionate about Ethical Hacking & OSINT.
 <br>
-Learning : Networking, Linux, Eathical Hacking.
+Learning : Networking, Linux, Ethical Hacking.
 
 # Goals
 Become a cyber Security Professional.

@@ -1,4 +1,4 @@
-# Introduction!
+# Introduction !
 <h4> Hi I'm Subodh</h4>
 󠁯•󠁏 This is my first git repository.
 <br>
@@ -8,7 +8,7 @@
 <br>
 󠁯•󠁏 Learning : Networking, Linux, Ethical Hacking.
 
-# Goals!
+# Goals !
 󠁯•󠁏 Become a cyber Security Professional.
 <br>
 󠁯•󠁏 Build Security tools.

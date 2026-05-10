@@ -7,7 +7,6 @@ Cyber Security Enthusiast.
 MCA Student.
 <br>
 Learning : Networking, Linux, Eathical Hacking.
-<br>
 
 # Goals
 Become a cyber Security Professional.
